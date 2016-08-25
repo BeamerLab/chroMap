@@ -1,0 +1,6 @@
+{
+  "name": "ChroMap",
+  "tagline": "R package for generic human anatomical heatmap visualizations",
+  "body": "# chroMap\r\n[![DOI](https://zenodo.org/badge/24072/BeamerLab/chroMap.svg)](https://zenodo.org/badge/latestdoi/24072/BeamerLab/chroMap)\r\n\r\nR Package that maps a matrix of data, with associated tissue names, to a human anatomical model using colors - effectively an anatomical heatmap.\r\n\r\nPlease  use the above DOI to reference our work in any publication, poster, or other work. For support or to request features please email kmskvf@mail.missouri.edu.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
